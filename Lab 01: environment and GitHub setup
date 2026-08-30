@@ -1,6 +1,0 @@
-git clone https://github.com/<you>/ds2002-fa26.git
-cd ds2002-fa26
-mkdir -p notebooks/01-foundations
-git add notebooks/01-foundations
-git commit -m "Lab 01: environment and GitHub setup"
-git push
